@@ -10,9 +10,9 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/check": "^0.6.0",
-    "@astrojs/mdx": "^3.0.0",
-    "astro": "^4.8.2",
+    "@astrojs/check": "^0.7.0",
+    "@astrojs/mdx": "^3.0.1",
+    "astro": "^4.9.3",
     "rehype-katex": "^7.0.0",
     "remark-math": "^6.0.0",
     "typescript": "^5.4.5"

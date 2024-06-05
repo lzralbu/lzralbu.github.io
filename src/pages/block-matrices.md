@@ -1,24 +1,36 @@
 ---
 layout: ../layouts/Post.astro
-title: Hello, World
+title: Multipling block matrices
 author: Lázaro Albuquerque
 description: Testando o KaTeX
 ---
 
-# Hi there!
+# Hi there
 
 This Markdown file creates a page at `your-domain.com/page-1/`
 
+$$\bigtriangledown \left| asdasdasd \right| \left\|  \right\|  $$
+
+asdasdas $\mathbb{R}$
+
+$\mathbb{R} \mathbb{Q} \mathbf{Q}$
+
+vs
+
+$$
+\mathbb{R}
+$$
+
 It probably isn't styled much, but Markdown does support:
 
--   **bold** and _italics._
--   lists
--   [links](https://astro.build)
--   and more!
+- **bold** and _italics._
+- lists
+- [links](https://astro.build)
+- and more!
 
 Eis uma fórmula matemática: $$\sqrt{a^2 + b^2}$$
 
-Lift($$L$$) can be determined by Lift Coefficient ($$C_L$$) like the following
+Lift($L$) can be determined by Lift Coefficient ($C_L$) like the following
 equation.
 
 $$
